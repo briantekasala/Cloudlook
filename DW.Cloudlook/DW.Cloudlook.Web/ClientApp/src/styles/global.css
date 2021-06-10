@@ -1,0 +1,270 @@
+/* 
+ * Copyright (c) Microsoft Corporation. All rights reserved. Licensed under the MIT license.
+ * See LICENSE in the project root for license information.
+ */
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.container {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.intro {
+  padding: 7px;
+  text-align: left;
+  color: #3c3c3c;
+}
+
+.searchText {
+  text-align: left;
+  padding: 3%;
+  color: #3c3c3c;
+}
+.header > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.scopes {
+  list-style-type: none;
+  margin: 1%;
+  margin-left: -9%;
+}
+
+.scopes > li {
+  display: inline-table;
+  vertical-align: top;
+  width: 30%;
+  margin-right: 2%;
+}
+.scopeslogo {
+  width: 104%;
+  cursor: pointer;
+}
+
+.fileSelector {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  height: 220px;
+  overflow-y: auto;
+}
+
+.loader {
+  position: relative;
+  margin-top: 35%;
+  padding-left: 5%;
+  text-align: center;
+}
+
+.fileLoader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+}
+
+.icon {
+  height: 16px;
+  width: 16px;
+}
+
+.selectionText {
+  text-align: left;
+  color: #3c3c3c;
+}
+
+.addbutton {
+  background-color: #c42828;
+  border-color: #c42828;
+  height: 29px;
+}
+
+.addbutton:hover {
+  background-color: #941914;
+  border-color: #941914;
+}
+
+/*seachbox css*/
+.Searchbox {
+  border-color: #c42828;
+}
+
+/*seachbox css*/
+.Searchbox:hover {
+  border-color: #941914;
+}
+
+.filecontainer {
+  max-height: 32vh;
+  overflow-x: auto;
+  overflow-y: auto;
+  padding-top: 20px;
+  padding-right: 4px;
+  padding-bottom: 20px;
+  padding-left: 4px;
+  position: relative;
+}
+
+.teamContainer {
+  max-height: 77vh;
+  overflow-x: auto;
+  overflow-y: auto;
+  padding-top: 20px;
+  padding-right: 4px;
+  padding-bottom: 20px;
+  padding-left: 4px;
+  position: relative;
+}
+
+/*TeamsMenu css*/
+
+.Teamslogo {
+  width: 220px;
+  height: 220px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.favoriteButtton {
+  width: 120px;
+  height: 100px;
+  border-radius: 12px;
+  background-color: #7b83eb;
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+}
+
+.button {
+  width: 120px;
+  height: 100px;
+  border-radius: 12px;
+  background-color: #464eb8;
+  display: block;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+}
+
+.buttonText {
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.backButtonTeam {
+  width: 45px;
+  height: -8px;
+  position: fixed;
+  margin-top: 139px;
+}
+.backButtonTeam:hover {
+  cursor: pointer;
+}
+.backButton {
+  width: 45px;
+  height: -8px;
+  position: absolute;
+  margin-top: -21px;
+}
+
+.list-Teams {
+  width: 100%;
+  height: 438px;
+}
+
+.backButton:hover {
+  cursor: pointer;
+}
+
+.fontIcon:hover {
+  cursor: pointer;
+}
+
+.teamName:hover{
+  cursor: pointer;
+}
+/*Docviewer css*/
+
+.DocViewerScreen {
+  max-height: 77vh;
+  overflow-x: auto;
+  overflow-y: auto;
+  padding-top: 20px;
+  padding-right: 4px;
+  padding-bottom: 20px;
+  padding-left: 4px;
+  position: relative;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 10rem;
+  margin-left: 0px;
+  border-style: solid;
+}
+.ms-fontSize-32 {
+  text-align: center;
+}
+
+.oneDriveTeam:hover{
+  cursor: pointer;
+}
+
+.teamsAttachment {
+  width: 319px;
+  padding: 27px;
+  margin-left: 1px;
+  margin-top: 108px;
+  margin-bottom: auto;
+  border-style: solid;
+  position: absolute;
+}
+
+.teamsFooter {
+  height: 10rem;
+  position: absolute;
+  bottom: 0;
+}
+
+/*css DoTscreen*/
+.ScopeScreen {
+  position: relative;
+  min-height: 100vh;
+}
+.ScopeFooter {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 10rem; /* Footer height */
+}
+.delwareaccent {
+  width: inherit;
+  height: inherit;
+}
+.dwlicon {
+  width: 24px;
+  height: 24px;
+}
+
+.doT:hover {
+cursor: pointer;
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DW.Cloudlook.Web", "DW.Cloudlook.Web\DW.Cloudlook.Web.csproj", "{74CAC654-6C36-435D-A3A5-8CC410BDC541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DW.Cloudlook.Repository", "DW.Cloudlook.Repository\DW.Cloudlook.Repository.csproj", "{E21B1A62-2EE5-4E1C-BE87-DCB956DE33A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74CAC654-6C36-435D-A3A5-8CC410BDC541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CAC654-6C36-435D-A3A5-8CC410BDC541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CAC654-6C36-435D-A3A5-8CC410BDC541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CAC654-6C36-435D-A3A5-8CC410BDC541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21B1A62-2EE5-4E1C-BE87-DCB956DE33A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21B1A62-2EE5-4E1C-BE87-DCB956DE33A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21B1A62-2EE5-4E1C-BE87-DCB956DE33A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21B1A62-2EE5-4E1C-BE87-DCB956DE33A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4794B771-C51D-4484-946A-AA28BBD899D4}
+	EndGlobalSection
+EndGlobal

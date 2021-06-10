@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\repo\\dw-cloudlook-add-in\\DW.Cloudlook\\DW.Cloudlook.Repository\\DW.Cloudlook.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\repo\\dw-cloudlook-add-in\\DW.Cloudlook\\DW.Cloudlook.Repository\\DW.Cloudlook.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repo\\dw-cloudlook-add-in\\DW.Cloudlook\\DW.Cloudlook.Repository\\DW.Cloudlook.Repository.csproj",
+        "projectName": "DW.Cloudlook.Repository",
+        "projectPath": "C:\\repo\\dw-cloudlook-add-in\\DW.Cloudlook\\DW.Cloudlook.Repository\\DW.Cloudlook.Repository.csproj",
+        "packagesPath": "C:\\Users\\TekaSalaB\\.nuget\\packages\\",
+        "outputPath": "C:\\repo\\dw-cloudlook-add-in\\DW.Cloudlook\\DW.Cloudlook.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TekaSalaB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

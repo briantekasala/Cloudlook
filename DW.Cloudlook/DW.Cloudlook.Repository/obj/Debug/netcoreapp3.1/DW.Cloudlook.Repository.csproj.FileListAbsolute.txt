@@ -1,0 +1,12 @@
+C:\repo\dw-cloudlook-add-in\DW.Cloudlook\DW.Cloudlook.Repository\bin\Debug\netcoreapp3.1\DW.Cloudlook.Repository.deps.json
+C:\repo\dw-cloudlook-add-in\DW.Cloudlook\DW.Cloudlook.Repository\bin\Debug\netcoreapp3.1\DW.Cloudlook.Repository.runtimeconfig.json
+C:\repo\dw-cloudlook-add-in\DW.Cloudlook\DW.Cloudlook.Repository\bin\Debug\netcoreapp3.1\DW.Cloudlook.Repository.runtimeconfig.dev.json
+C:\repo\dw-cloudlook-add-in\DW.Cloudlook\DW.Cloudlook.Repository\bin\Debug\netcoreapp3.1\DW.Cloudlook.Repository.dll
+C:\repo\dw-cloudlook-add-in\DW.Cloudlook\DW.Cloudlook.Repository\bin\Debug\netcoreapp3.1\DW.Cloudlook.Repository.pdb
+C:\repo\dw-cloudlook-add-in\DW.Cloudlook\DW.Cloudlook.Repository\obj\Debug\netcoreapp3.1\DW.Cloudlook.Repository.csprojAssemblyReference.cache
+C:\repo\dw-cloudlook-add-in\DW.Cloudlook\DW.Cloudlook.Repository\obj\Debug\netcoreapp3.1\DW.Cloudlook.Repository.AssemblyInfoInputs.cache
+C:\repo\dw-cloudlook-add-in\DW.Cloudlook\DW.Cloudlook.Repository\obj\Debug\netcoreapp3.1\DW.Cloudlook.Repository.AssemblyInfo.cs
+C:\repo\dw-cloudlook-add-in\DW.Cloudlook\DW.Cloudlook.Repository\obj\Debug\netcoreapp3.1\DW.Cloudlook.Repository.csproj.CoreCompileInputs.cache
+C:\repo\dw-cloudlook-add-in\DW.Cloudlook\DW.Cloudlook.Repository\obj\Debug\netcoreapp3.1\DW.Cloudlook.Repository.dll
+C:\repo\dw-cloudlook-add-in\DW.Cloudlook\DW.Cloudlook.Repository\obj\Debug\netcoreapp3.1\DW.Cloudlook.Repository.pdb
+C:\repo\dw-cloudlook-add-in\DW.Cloudlook\DW.Cloudlook.Repository\obj\Debug\netcoreapp3.1\DW.Cloudlook.Repository.genruntimeconfig.cache
